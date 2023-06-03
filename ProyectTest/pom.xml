@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.hanoli.testProyect</groupId>
-  <artifactId>TestProyecto</artifactId>
+  <artifactId>ProyectTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>TestProyecto Maven Webapp</name>
+  <name>ProyectTest Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>TestProyecto</finalName>
+    <finalName>ProyectTest</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
